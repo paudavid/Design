@@ -1,3 +1,3 @@
 # Design
 
-Projects using Adobe Photoshop and Adobe Illustrator
+Low level projects using Adobe Photoshop and Adobe Illustrator
